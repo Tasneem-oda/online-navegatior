@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: system-ui;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+.title{
+    font-size: 40px;
+    margin: 10px;
+}
+ul{
+    margin: 10px;
+}
+li{
+    margin: 5px;
+    color: #666;
+}
+button{
+    padding: 10px;
+    margin: 5px;
+    background: #666;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+}
